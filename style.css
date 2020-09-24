@@ -1,0 +1,25 @@
+#box-center {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+  width: 99vw;
+  height: 97vh;
+  display: flex;
+}
+
+.main-box {
+  border: 2px solid black;
+  width: 500px;
+  display: block;
+}
+
+.main-box2 {
+  margin-top: 5px;
+  width: 500px;
+  display: block;
+}
+
+p {
+  display: none;
+}
